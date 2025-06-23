@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nigar Selek</h1>
-<h3 align="center">I'm currently pursuing my Bachelor's degree in Computer Engineering at Akdeniz University, and I'm in my fourth year. As someone passionate about backend development, I have worked on various academic and personal projects using technologies like .NET Core, C#. I'm continuously seeking ways to improve my skills and keep up with modern software development trends. I'm a detail-oriented and self-motivated person who enjoys solving problems, learning new technologies, and working collaboratively in a team environment.</h3>
+
+<p align="center">
+ I'm currently pursuing my Bachelor's degree in Computer Engineering at Akdeniz University.<br/>
+ As someone passionate about backend development, I have worked on various academic and personal projects using technologies like .NET Core, C#.<br/>
+ I'm continuously seeking ways to improve my skills and keep up with modern software development trends.<br/>
+ I'm a detail-oriented and self-motivated person who enjoys solving problems, learning new technologies, and working collaboratively in a team environment.
+</p>
 
 - 📫 How to reach me **nigarselek923@gmail.com**
 
